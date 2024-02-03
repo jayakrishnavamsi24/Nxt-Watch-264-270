@@ -1,0 +1,10 @@
+.main-frame-container {
+  padding-top: 50px;
+}
+
+@media (min-width: 768px) {
+  .main-frame-container {
+    display: flex;
+    height: 100vh;
+  }
+}
